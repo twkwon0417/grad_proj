@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python unify_datasets.py)",
+      "Bash(python /Users/tony/Desktop/grad_proj/unify_datasets.py)"
+    ]
+  }
+}
